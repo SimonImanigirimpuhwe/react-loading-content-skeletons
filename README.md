@@ -35,8 +35,30 @@ class Example extends Component {
 }
 ```
 
+## Properties
+
+| Type      | Size                         | count  | Theme           | Description                                          |
+| --------- | ---------------------------- | ------ | --------------- | ---------------------------------------------------- |
+| Avatar    | medium <br> large            | -      | dark <br> Light | small is the default size<br>light the default theme |
+| Thumbnail | small <br> medium <br> large | -      | dark <br> light | small is default size<br>light the default theme     |
+| Text      | small <br> medium <br> large | Number | dark <br> light | medium is default size<br>light the default theme    |
+
+## Contributing
+
+### **New feature**
+
+Create pull request and follow [best practice](https://github.com/andela/bestpractices/wiki/Git-naming-conventions-and-best-practices)
+
+### **Issue**
+
+Rise new issue by following [best practice](https://guides.github.com/features/issues/)
+
+## Contact
+
+[SimonImanigirimpuhwe](https://github.com/SimonImanigirimpuhwe)
+
+softimag08@gmail.com
+
 ## License
 
 MIT © [SimonImanigirimpuhwe](https://github.com/SimonImanigirimpuhwe)
-
-# react-loading-content-skeletons
